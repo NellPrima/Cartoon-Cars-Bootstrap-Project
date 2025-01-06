@@ -1,0 +1,9 @@
+//including all of bootstrap for custom designing mainly colors
+//all colors should be before the import line
+$primary: #191919;
+$secondary: #fdfdfd;
+
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+//Add additional custom code here

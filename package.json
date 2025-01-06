@@ -1,0 +1,15 @@
+{
+  "name": "cartoon-cars-bootstrap-project",
+  "version": "1.0.0",
+  "description": "A one page car dealership website using well know cars driven by cartoon characters to improve my Bootstrap skills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
